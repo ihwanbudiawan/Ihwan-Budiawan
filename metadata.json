@@ -1,0 +1,6 @@
+{
+  "name": "AMR PowerEye - Analisis & Diagnostik Anomali Meter Listrik",
+  "description": "Aplikasi cerdas analisis data AMR PLN untuk deteksi anomali tegangan, arus, wiring terbalik, cosphi rendah/negatif, diagram fasor interaktif, dan grafik pemakaian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

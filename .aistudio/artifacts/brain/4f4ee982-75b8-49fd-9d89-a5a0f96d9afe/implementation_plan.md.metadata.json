@@ -1,0 +1,6 @@
+{
+  "summary":  "Rencana komprehensif implementasi pembaruan sistem AMR PowerEye PLN:\n1. Dukungan multi-sheet XLSX, streaming 2 GB, dan penyimpanan IndexedDB berbasis kode 2-digit Unit Induk PLN.\n2. Filter Unit Induk di CustomerTable, kolom Customer/Non-Customer, checklist kolom/baris, arus netral In, stand absolut kWh/kVARh, ketidakseimbangan arus dan tegangan, serta deduplikasi arus terbesar.\n3. Analisis harmonisa THD (IEEE 519 / IEC) dan unbalance beban fasa di DiagnosticSummary.\n4. Diagram fasor split-view side-by-side untuk 2 IDPEL, mode animasi & 3D, serta gelombang sinusoidal arus/tegangan.\n5. Tren 6-12 bulan dan kumulatif kWh Import vs Export di tab Charts.\n6. Model prediksi regresi anomali 12 bulan di Dashboard.\n7. Geospasial Google Maps dengan koordinat IDPEL, pemantauan rute petugas, jarak & estimasi waktu (ETA).\n8. Ekspor Berita Acara P2TL resmi sesuai Peraturan Direksi PLN No. 028 (PDF/Cetak) & CSV.\n9. Database pelanggan PLTS untuk analisa net-metering & billing.\n10. Autentikasi 2FA mesin (@pln.co.id & WhatsApp OTP), customizer tema, pembersihan header, dan running text footer anomali.",
+  "updatedAt":  "2026-10-24T04:34:05.305483501Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

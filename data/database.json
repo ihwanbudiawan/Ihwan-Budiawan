@@ -1,0 +1,59 @@
+{
+  "batches": [
+    {
+      "id": "batch-srv-20261013",
+      "fileName": "52_INSTANT_20261013_9efcaeef.csv",
+      "fileType": "instant",
+      "uploadTimestamp": "2026-10-13 08:30:00",
+      "month": 10,
+      "year": 2026,
+      "recordCount": 1500,
+      "criticalCount": 12,
+      "warningCount": 45,
+      "totalKva": 245000,
+      "unit": "UP3 KUDUS"
+    },
+    {
+      "id": "batch-srv-20260920",
+      "fileName": "52_LOADPROFILE_SEPT_2026.xlsx",
+      "fileType": "load_profile",
+      "uploadTimestamp": "2026-09-20 14:15:22",
+      "month": 9,
+      "year": 2026,
+      "recordCount": 2880,
+      "criticalCount": 4,
+      "warningCount": 28,
+      "totalKva": 182000,
+      "unit": "UP3 KUDUS"
+    },
+    {
+      "id": "batch-srv-20260815",
+      "fileName": "52_INSTANT_20260815_AGUSTUS.csv",
+      "fileType": "instant",
+      "uploadTimestamp": "2026-08-15 10:05:18",
+      "month": 8,
+      "year": 2026,
+      "recordCount": 1420,
+      "criticalCount": 9,
+      "warningCount": 39,
+      "totalKva": 220000,
+      "unit": "UP3 KUDUS"
+    }
+  ],
+  "evaluations": [
+    {
+      "id": "eval-srv-001",
+      "timestamp": "2026-10-13 16:00:00",
+      "dateStr": "13 Oktober 2026",
+      "title": "Evaluasi Rutin Bulanan AMR UP3 Kudus",
+      "totalCustomers": 1500,
+      "criticalCount": 12,
+      "warningCount": 45,
+      "avgCosphi": 0.912,
+      "avgHealthScore": 88.4,
+      "notes": "Ditemukan 12 kasus potensi pengawatan CT terbalik. Telah diterbitkan Berita Acara P2TL untuk tindak lanjut lapangan.",
+      "evaluatedBy": "Ihwan Budiawan"
+    }
+  ],
+  "lastUpdated": "2026-10-24T11:32:30.203Z"
+}
